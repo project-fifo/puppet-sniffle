@@ -1,0 +1,3 @@
+class sniffle::deps {
+
+}
