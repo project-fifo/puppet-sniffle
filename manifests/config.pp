@@ -4,7 +4,7 @@ class sniffle::config {
   $conf = "/data/sniffle/etc/${file}"
 
   $ip        = $facts['ipaddress']
-  $port      = 4200
+  $port      = 4210
   $ring_size = 64
 
 
